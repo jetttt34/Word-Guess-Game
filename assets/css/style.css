@@ -1,0 +1,18 @@
+.myHeader{
+    border: 2px solid black;
+    text-align: center;
+    
+}
+
+.game{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.header2{
+    text-align: center;
+}
+
+.bdy{
+    margin-left: 25px;
+}
